@@ -2,7 +2,7 @@
 <p align="center">
 <img width="500" alt="horizontal_tagline_black_on_white_by_logaster (1)" src="https://user-images.githubusercontent.com/50145471/89743076-f2566b00-da75-11ea-9b35-bef6b3a45869.png"></p>
 
-Web : http://www.rottay.com   ||  Linkedin : https://www.linkedin.com/in/avila-daniel/  ||  Email : daniel.avila@rottay.com
+Web : http://www.rottay.com    Linkedin : https://www.linkedin.com/in/avila-daniel/        Email : daniel.avila@rottay.com
 
 # Java-Spark-FTL
 RestFul application built in Java 8 Spark and Free Marker Template. This application is part of the blogpost - http://prashantb.me/working-with-java-spark-framework
